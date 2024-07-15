@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\MovieAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|c:\\project\\movieapi\\webapplication4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|solutionrelative:webapplication4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|C:\\project\\MovieAPI\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|C:\\project\\MovieAPI\\webapplication4\\moviesrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|solutionrelative:webapplication4\\moviesrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|C:\\project\\MovieAPI\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDAD5439-7C71-42B3-86C7-5D399A0E8C05}|WebApplication4\\MoviesRestAPI.csproj|solutionrelative:webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\project\\MovieAPI\\WebApplication4\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\project\\MovieAPI\\WebApplication4\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAADIAAAAAZmZmZmYqwDkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:55:46.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project\\MovieAPI\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.json",
+              "ToolTip": "C:\\project\\MovieAPI\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T02:47:52.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\MovieAPI\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\project\\MovieAPI\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:42:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesRestAPI.csproj",
+              "DocumentMoniker": "C:\\project\\MovieAPI\\WebApplication4\\MoviesRestAPI.csproj",
+              "RelativeDocumentMoniker": "WebApplication4\\MoviesRestAPI.csproj",
+              "ToolTip": "C:\\project\\MovieAPI\\WebApplication4\\MoviesRestAPI.csproj",
+              "RelativeToolTip": "WebApplication4\\MoviesRestAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T02:40:40.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
